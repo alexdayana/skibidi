@@ -1,0 +1,63 @@
+{
+	"IsUnderMaintenance": false,
+	"OnsignalId": "",
+	"Admob": {
+		"IsOn": false,
+		"AppId": "ca-app-pub-3940256099942544~3347511713",
+		"OpenApp": "ca-app-pub-3940256099942544/3419835294",
+		"Banner": "ca-app-pub-3940256099942544/6300978111",
+		"Inter": "ca-app-pub-3940256099942544/1033173712",
+		"Native": "ca-app-pub-3940256099942544/2247696110"
+	},
+	"Facebook": {
+		"IsOn": true,
+		"Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"Applovin": {
+		"IsOn": false,
+		"OpenApp": "",
+		"Banner": "",
+		"Inter": "",
+		"Native": ""
+	},
+	"yandex": {
+		"IsOn": false,
+		"Banner": "R-M-DEMO-320x50",
+		"Inter": "R-M-DEMO-320x480",
+		"Native": "R-M-DEMO-native-i"
+	},
+	"Unity": {
+		"IsOn": false,
+		"AppId": "4498253",
+		"Banner": "Banner_Android",
+		"Inter": "Rewarded_Android"
+	  },
+	  {
+			"Title":  "GUIDE "
+      "Description": "Skibidi Toilet is a series of Source Filmmaker videos by YouTuber DaFuq Boomfeaturing a remix of Promiscuous by Nelly Furtado and Dom Dom Yes Yes by Biser King in which an army of toilets with men's heads coming out of them are shown singing the song in various settings The series follows a plot about the Skibidi Toilets taking over the world and men with cameras for heads known as CameraHeads fighting against them The first episode was uploaded as a YouTube Short in February 2023 and inspired 24 more episodes over the following months each gaining tens of millions of views",
+			
+		},
+		{
+			"Title": "GUIDE 1",
+			"Description": " Access the website Go to the Skribbl io website using your web browser Create or join a room You can create your own private room or join an existing one If you create a private room you'll receive a unique URL that you can share with your friends to play together." 
+    },
+		{
+			"Title": "GUIDE 3",
+			"Description": "Choose the settings As the room creator you can customize various game settings These include the number of rounds drawing time limit language and custom words Start the game Once everyone is ready click the Start button to begin the game Take turns drawing In each round one player will be selected as the drawer They will receive a word to draw on the canvas using the provided drawing tools Remember you're not allowed to draw any letters or numbers as hints. "
+		},
+		{
+			"Title": "GUIDE 4",
+			"Description": " Guess the word While the drawer is drawing, other players need to guess the word based on the drawing You can enter your guesses in the chatbox providedEarn points If you guess the word correctly you'll earn points based on how quickly you guessed it The faster you guess the more points you receive.Rotate turns: After a round ends the role of the drawer will rotate to the next player and the process repeats for the next word Keep playing The game continues for the number of rounds you specified at the beginning The player with the highest score at the end is the winner"
+		},
+		{
+			"Title": "Game Information",
+			"Description": "Use basic shapes If you're the drawerstart by drawing basic shapes and outlines to help others understand what you're trying to depict Refine your drawing as time permits. Pay attention to others: When you're not drawing, closely observe the drawings and guesses of other players. It can provide you with clues to figure out the correct word."
+		},
+		{
+			"Title": "GUIDE 5",
+			"Description": " Be creative with your guesses: Sometimes the drawings may not be perfect so try to think creatively and come up with various possibilities when guessing the word. Have fun and be respectful: Skribbl.io is a game meant for enjoyment and friendly competition. Remember to be respectful to other players and avoid any offensive or inappropriate behavior."
+		}
+	]
+}
