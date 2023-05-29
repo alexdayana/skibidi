@@ -33,30 +33,30 @@
 		"AppId": "4498253",
 		"Banner": "Banner_Android",
 		"Inter": "Rewarded_Android"
-	  },
-	  {
-			"Title":  "GUIDE "
-                        "Description": "Skibidi Toilet is a series of Source Filmmaker videos by YouTuber DaFuq Boomfeaturing a remix of Promiscuous by Nelly Furtado and Dom Dom Yes Yes by Biser King in which an army of toilets with men's heads coming out of them are shown singing the song in various settings The series follows a plot about the Skibidi Toilets taking over the world and men with cameras for heads known as CameraHeads fighting against them The first episode was uploaded as a YouTube Short in February 2023 and inspired 24 more episodes over the following months each gaining tens of millions of views",
-			
+	},
+	"Guides": [{
+			"Title": "Welcome to Skibidi Toillet",
+			"Description": "The Skibidi toilet race is an infectious communicable Sexually Transmitted Toilet Disease  in which they seem to infect only toilets before lunging out to a human and ripping their head off  and to put it into another toilet thus replicating another Skibidi toilet They can also emit shit out of their mouths and it is no longer their only way of attacking."
 		},
 		{
 			"Title": "GUIDE 1",
-			"Description": " Access the website Go to the Skribbl io website using your web browser Create or join a room You can create your own private room or join an existing one If you create a private room you'll receive a unique URL that you can share with your friends to play together." 
-        },
-	{		"Title": "GUIDE 3",
-			"Description": "Choose the settings As the room creator you can customize various game settings These include the number of rounds drawing time limit language and custom words Start the game Once everyone is ready click the Start button to begin the game Take turns drawing In each round one player will be selected as the drawer They will receive a word to draw on the canvas using the provided drawing tools Remember you're not allowed to draw any letters or numbers as hints. "
+			"Description": "While the drawer is drawing other players need to guess the word based on the drawing You can enter your guesses in provided Earn points If you guess the word correctly you'll earn points based on how quickly you guessed it The faster you guess  the more points you receive Rotate turns After a round ends he role of the drawer will rotate to the next player and the process repeats for the next word Keep playing The game continues for the number of rounds you specified at the beginning The player with the highest score at the end is the winner."
+		},
+		{
+			"Title": "GUIDE 3",
+			"Description": "Use basic shapes If you're the drawer start by drawing basic shapes and outlines to help others understand what you're trying to depict Refine your drawing as time permits Pay attention to others When you're not drawing closely observe the drawings and guesses of other players It can provide you with clues to figure out the correct word."
 		},
 		{
 			"Title": "GUIDE 4",
-			"Description": " Guess the word While the drawer is drawing, other players need to guess the word based on the drawing You can enter your guesses in the chatbox providedEarn points If you guess the word correctly you'll earn points based on how quickly you guessed it The faster you guess the more points you receive.Rotate turns: After a round ends the role of the drawer will rotate to the next player and the process repeats for the next word Keep playing The game continues for the number of rounds you specified at the beginning The player with the highest score at the end is the winner"
+			"Description": "Be creative with your guesses Sometimes the drawings may not be perfect so try to think creatively and come up with various possibilities when guessing the word Have fun and be respectful is a game meant for enjoyment and friendly competition Remember to be respectful to other players and avoid any offensive or inappropriate behavior."
 		},
 		{
 			"Title": "Game Information",
-			"Description": "Use basic shapes If you're the drawerstart by drawing basic shapes and outlines to help others understand what you're trying to depict Refine your drawing as time permits. Pay attention to others: When you're not drawing, closely observe the drawings and guesses of other players. It can provide you with clues to figure out the correct word."
+			"Description": "All features of the app are absolutely free You can receive unlimited video calls from Yasin Cengiz Skibidi Dop Dop at any time."
 		},
 		{
 			"Title": "GUIDE 5",
-			"Description": " Be creative with your guesses: Sometimes the drawings may not be perfect so try to think creatively and come up with various possibilities when guessing the word. Have fun and be respectful: Skribbl.io is a game meant for enjoyment and friendly competition. Remember to be respectful to other players and avoid any offensive or inappropriate behavior."
+			"Description": "Skibidi toilet aka toilet in ohio free 3d game for android be ready us presidents  "
 		}
 	]
 }
